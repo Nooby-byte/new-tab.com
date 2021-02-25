@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    margin: 200px;
+    color: chocolate;
+}
+
+#thunk {
+    width: 50px;
+}
+
+#hr {
+    background-color: burlywood;
+    color: fuchsia;
+    border-style: outset;
+}
